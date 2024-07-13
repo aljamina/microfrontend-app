@@ -1,0 +1,13 @@
+.paper {
+    margin: 10px;
+    float: left;
+    padding: 8px;
+    text-align: center;
+    width: 330px;
+    height: 350px;
+    cursor: pointer;
+}
+.paper:hover {
+    color: darkblue;
+    box-shadow: 6px 2px 2px gray;
+}

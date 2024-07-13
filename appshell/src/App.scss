@@ -1,0 +1,23 @@
+.root {
+    display: flex;
+}
+
+.hide {
+    display: none;
+}
+
+.drawer {
+    width: 240;
+    flex-shrink: 0;
+}
+
+.drawer-paper {
+    width: 240;
+}
+
+.drawer-header {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    min-height: 64px;
+}

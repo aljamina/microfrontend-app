@@ -27,7 +27,7 @@ const MyAccount = React.lazy(() => import("MyAccount/MyAccount"));
 const drawerWidth = 240;
 
 const useStyles = makeStyles((theme) => ({
-      content: {
+    content: {
         flexGrow: 1,
         padding: theme.spacing(3),
         transition: theme.transitions.create('margin', {
@@ -35,15 +35,15 @@ const useStyles = makeStyles((theme) => ({
           duration: theme.transitions.duration.leavingScreen,
         }),
         marginLeft: -drawerWidth,
-      },
-      contentShift: {
+    },
+    contentShift: {
         transition: theme.transitions.create('margin', {
           easing: theme.transitions.easing.easeOut,
           duration: theme.transitions.duration.enteringScreen,
         }),
         marginLeft: 0,
-      },
-  }));
+    },
+}));
 
 const Main = () => {
     const classes = useStyles();
@@ -79,7 +79,7 @@ const Main = () => {
                     </IconButton>
                 </div>
                 <Divider />
-                <List>
+                <List className="list">
                     {!window.sessionStorage.getItem("token") &&
                         <ListItem button key="SignIn">
                             <ListItemIcon><ExitToAppIcon/></ListItemIcon>

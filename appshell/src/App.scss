@@ -21,3 +21,8 @@
     justify-content: flex-end;
     min-height: 64px;
 }
+.list {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}

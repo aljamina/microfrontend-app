@@ -5,21 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff0735ec-a5ec-4447-af80-8af9ffcbc715" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../appshell/src/App.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../catalogue/src/Product.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../catalogue/src/allArticles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../appshell/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../appshell/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../appshell/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../appshell/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../appshell/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../appshell/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../appshell/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../appshell/src/App.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../appshell/src/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../appshell/src/Main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../appshell/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../appshell/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../catalogue/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../catalogue/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../catalogue/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../catalogue/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../catalogue/src/Catalogue.js" beforeDir="false" afterPath="$PROJECT_DIR$/../catalogue/src/Catalogue.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../catalogue/src/Details.js" beforeDir="false" afterPath="$PROJECT_DIR$/../catalogue/src/Details.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../catalogue/src/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/../catalogue/src/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../catalogue/src/Product.js" beforeDir="false" afterPath="$PROJECT_DIR$/../catalogue/src/Product.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../catalogue/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../catalogue/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myaccount/src/MyAccount.js" beforeDir="false" afterPath="$PROJECT_DIR$/../myaccount/src/MyAccount.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myaccount/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myaccount/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../paymentdetails/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../paymentdetails/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../signin/src/SignIn.js" beforeDir="false" afterPath="$PROJECT_DIR$/../signin/src/SignIn.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +50,7 @@
       <workItem from="1720861607739" duration="41000" />
       <workItem from="1720861687619" duration="46000" />
       <workItem from="1720861831176" duration="789000" />
+      <workItem from="1720938884122" duration="1307000" />
     </task>
     <servers />
   </component>

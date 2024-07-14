@@ -1,4 +1,5 @@
 import React from "react";
+import { StylesProvider, createGenerateClassName } from '@material-ui/core/styles';
 import Product from "./Product";
 import {articles} from "./allArticles";
 
@@ -7,8 +8,16 @@ const getUrl = (id) => {
     return `shop/product/${id}`
 }
 
+const generateClassName = createGenerateClassName({
+    seed:'catalogue'
+});
+
 const Home = () => {
-    return articles.map(item => <Product key={item.id} data={item} url={getUrl(item.id)}/>);
+    return(
+        <StylesProvider generateClassName={generateClassName}>
+            {articles.map(item => <Product key={item.id} data={item} url={getUrl(item.id)}/>)}
+        </StylesProvider>
+    )
 }
 
 export default Home;
